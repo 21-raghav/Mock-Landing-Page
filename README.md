@@ -8,7 +8,7 @@ A Mock Landing Page built using HTML, CSS and Javascript. It mainly focuses on C
 ![demo](./demo.jpg)
 
 
-**_Live Site URL:_** [Add live site URL here](https://your-live-site-url.com)
+**_Live Site URL:_** (https://mock-landing-page.web.app/)
 
 ### Built with
 ___
